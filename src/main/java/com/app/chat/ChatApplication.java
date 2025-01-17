@@ -1,4 +1,4 @@
-package com.app.chatapp;
+package com.app.chat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
